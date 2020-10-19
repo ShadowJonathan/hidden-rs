@@ -1,0 +1,13 @@
+[package]
+name = "hidden"
+description = "A library to create and interact with \"hidden variables\"."
+repository = "https://github.com/ShadowJonathan/hidden-rs"
+version = "0.0.1-alpha"
+authors = ["Jonathan de Jong <jonathan@automatia.nl>"]
+edition = "2018"
+license = "EUPL-1.2"
+keywords = ["hidden", "variable", "chance", "choice"]
+readme = "README.md"
+
+[dependencies]
+rand = "0.7.3"
